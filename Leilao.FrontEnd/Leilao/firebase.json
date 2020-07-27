@@ -1,0 +1,19 @@
+{
+  "hosting": [
+    {
+      "target": "Leilao",
+      "public": "dist/Leilao",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+<div class="container">
+  <h2>Leilões</h2>
+  <br>
+  <div class="row">
+    <table class="table table-sm table-hover" id="leiloes">
+      <tr>
+        <th *ngFor="let col of columns">
+          {{col}}
+        </th>
+      </tr>
+      <tr *ngFor="let item of itemLeilao">
+        <td *ngFor="let col of index">
+          {{item[col]}}
+        </td>
+      </tr>
+
+    </table>
+  </div>
+</div>

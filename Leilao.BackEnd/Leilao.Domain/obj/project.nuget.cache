@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ed072Y51kRyB+4F5+/QioTcp+i3jP4uUi4+khG1L/ftegw077iEelfs6ifn+uC25CvbFfMazTwG0wgIIRbYZRQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\Projeto\\Leilao\\LeilaoApp\\Leilao.BackEnd\\Leilao.Domain\\Leilao.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fernanda\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
+    "C:\\Users\\Fernanda\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Fernanda\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

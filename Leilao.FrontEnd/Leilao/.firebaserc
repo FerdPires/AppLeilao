@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "leiloes-128aa": {
+      "hosting": {
+        "Leilao": [
+          "leiloes-128aa"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+@import '~ngx-toastr/toastr';
+
+body {
+  background-color: #fff;
+  font-family: "Poppins", sans-serif;
+  /* display: flex; */
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+
+/* .container {
+  width: 980px;
+  background-color: #D6CBC1;
+  background-image: url("./assets/frame.png");
+  background-size: 300px;
+  background-repeat: no-repeat;
+  background-position-x: -100px;
+  background-position-y: -100px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.inner-container {
+  margin: 10px;
+  padding: 10px;
+} */
